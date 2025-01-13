@@ -1,0 +1,15 @@
+*{
+  font-family: "Rubik Vinyl", serif;
+  font-style: normal;
+}
+
+body {
+  text-align: center;
+  background-color: #D0D0D0; 
+  margin: 0;
+}
+
+canvas {
+  border: 2px solid black;
+  margin-top: 20px;
+}
